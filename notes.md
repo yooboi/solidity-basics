@@ -8,3 +8,8 @@
 ## Progress
 - Started learning Solidity fundamentals
 - Exploring syntax and basic concepts
+
+## Day 9 Progress
+- Revised Solidity variables and data types
+- Learned basic function syntax and visibility
+- Understood simple smart contract structure
