@@ -13,3 +13,7 @@
 - Revised Solidity variables and data types
 - Learned basic function syntax and visibility
 - Understood simple smart contract structure
+
+## Day 15 Progress
+- Reviewed Solidity functions and state variables
+- Continued understanding smart contract logic
