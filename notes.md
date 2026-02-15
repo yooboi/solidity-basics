@@ -17,3 +17,8 @@
 ## Day 15 Progress
 - Reviewed Solidity functions and state variables
 - Continued understanding smart contract logic
+
+## Day 19 Progress
+- Practiced writing simple contract examples
+- Reviewed function visibility and state variables
+- Continued improving understanding of Solidity fundamentals
