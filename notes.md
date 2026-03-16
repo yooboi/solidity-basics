@@ -22,3 +22,7 @@
 - Practiced writing simple contract examples
 - Reviewed function visibility and state variables
 - Continued improving understanding of Solidity fundamentals
+
+## Smart Contract Notes
+- A smart contract is a program stored on blockchain
+- It executes automatically when conditions are met
