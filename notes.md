@@ -26,3 +26,6 @@
 ## Smart Contract Notes
 - A smart contract is a program stored on blockchain
 - It executes automatically when conditions are met
+
+## Solidity Fact
+- Solidity is mainly used for Ethereum smart contracts
