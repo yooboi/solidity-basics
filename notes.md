@@ -33,3 +33,6 @@
 ## Smart Contract Notes
 - A smart contract is a program stored on blockchain
 - It executes automatically when conditions are met
+
+## Solidity Reminder
+- Functions can be public, private, internal, or external
